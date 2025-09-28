@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Deeksha's GitHub Diary:
 🔭 Hey!!! I'm a first year student at Newton School of Technology. I’m currently working on developing my Python skills along with learning how to use Github to maximise open source contributions in future. <br>🌱 I’m currently learning Python, advance HTML and Javascript as well as tools like Github<br>
 
 
