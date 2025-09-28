@@ -16,3 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=deekshaagrawal1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![This is all a joke, Im just a newbie heheheh](https://tenor.com/view/akshay-kumar-meme-bollywood-bhagam-bhag-gif-16994809)
