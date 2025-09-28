@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing my Python skills along with learning how to use Github to maximise open source contributions in future. <br>🌱 I’m currently learning Python, advance HTML and Javascript as well as tools like Github<br>
+🔭 Hey!!! I'm a first year student at Newton School of Technology. I’m currently working on developing my Python skills along with learning how to use Github to maximise open source contributions in future. <br>🌱 I’m currently learning Python, advance HTML and Javascript as well as tools like Github<br>
 
 
 ## 🌐 Socials:
@@ -24,3 +24,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![This is all a joke, Im just a newbie heheheh](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF3bzNjYnJnaDhza3FwZm14MHU3bGxxNGNtZDFleDk3aWRseHY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ommuP8WSHjdOY4vjOV/giphy.gif)
 ![Description](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VoMGZvazd6amR0Y2xucW5rOWZlbDJkbHczano1dWYydTFuMjliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5zmY0BtDnNsl2p07D/giphy.gif)
+![JACK - DUNIYA KA PAPA EDIT 🔥](https://i.makeagif.com/media/9-28-2025/BgPalu.gif)
